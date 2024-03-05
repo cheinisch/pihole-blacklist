@@ -1,1 +1,6 @@
 prod-mediate-events.applovin.com
+s3-ca-apcs.easybrain.com
+cross-promo-provider.easybrain.com
+api-eu-a.bidmachine.io
+track-eu-a.bidmachine.io
+bm-ads.io
