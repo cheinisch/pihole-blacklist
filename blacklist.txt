@@ -4,3 +4,9 @@ cross-promo-provider.easybrain.com
 api-eu-a.bidmachine.io
 track-eu-a.bidmachine.io
 bm-ads.io
+dcrfnt-us.adsmoloco.com
+api-eu.bidmachine.io
+f.lazybumblebee.com
+ets.easybrain.com
+*.bidmachine.io
+*.adsmoloco.com
