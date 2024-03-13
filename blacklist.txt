@@ -1,3 +1,8 @@
+# Title: pi-hole - Black-List
+# Autor: Christian Heinisch
+# Date: 13. March 2024
+# Number of unique domains: 13
+# ===========================================
 prod-mediate-events.applovin.com
 s3-ca-apcs.easybrain.com
 cross-promo-provider.easybrain.com
@@ -9,3 +14,4 @@ bm-ads.io
 dcrfnt-us.adsmoloco.com
 f.lazybumblebee.com
 ets.easybrain.com
+kayzencdn.akamaized.net
