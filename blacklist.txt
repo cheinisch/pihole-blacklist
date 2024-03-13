@@ -8,5 +8,3 @@ dcrfnt-us.adsmoloco.com
 api-eu.bidmachine.io
 f.lazybumblebee.com
 ets.easybrain.com
-*.bidmachine.io
-*.adsmoloco.com
