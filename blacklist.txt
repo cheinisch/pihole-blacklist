@@ -2,9 +2,10 @@ prod-mediate-events.applovin.com
 s3-ca-apcs.easybrain.com
 cross-promo-provider.easybrain.com
 api-eu-a.bidmachine.io
+api-eu.bidmachine.io
 track-eu-a.bidmachine.io
+track-eu.bidmachine.io
 bm-ads.io
 dcrfnt-us.adsmoloco.com
-api-eu.bidmachine.io
 f.lazybumblebee.com
 ets.easybrain.com
