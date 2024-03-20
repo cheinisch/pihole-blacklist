@@ -16,3 +16,5 @@ f.lazybumblebee.com
 ets.easybrain.com
 kayzencdn.akamaized.net
 cloudfront-s3-ca-apcs.easybrain.com
+tournaments.easybrain.com
+api-liveops.easybrain.com
