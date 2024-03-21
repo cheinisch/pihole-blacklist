@@ -14,5 +14,3 @@ bm-ads.io
 dcrfnt-us.adsmoloco.com
 f.lazybumblebee.com
 ets.easybrain.com
-tournaments.easybrain.com
-api-liveops.easybrain.com
