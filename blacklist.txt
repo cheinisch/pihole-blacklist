@@ -15,3 +15,5 @@ dcrfnt-us.adsmoloco.com
 f.lazybumblebee.com
 ets.easybrain.com
 secure-ds.serving-sys.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
