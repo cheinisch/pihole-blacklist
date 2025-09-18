@@ -1,1 +1,5 @@
-127.0.0.1 temu.com
+# Title: pi-hole - Online Shopping Black-List
+# Autor: Christian Heinisch
+# Date: 18. Sepember 2025
+# Number of unique domains: 0
+# ===========================================
